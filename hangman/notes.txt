@@ -1,0 +1,22 @@
+notes:
+
+guest word
+affichage  du dessin
+select word in a dictonary
+display state {hangman, letters found, letters used}
+
+
+input keyboard
+output screen
+
+
+dictionarty isolated
+
+
+packages hangman, dictonary, main
+
+Test
+
+
+
+
